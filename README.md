@@ -8,3 +8,7 @@
 ### Where to find me
 
 -[linkedin](https://www.linkedin.com/in/pedro-ya%C3%B1ez-baeza)
+
+SKILL
+[![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-orange.svg)](https://developer.android.com/studio)
+
