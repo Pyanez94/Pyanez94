@@ -13,6 +13,9 @@ SKILL
 
 [![Android Studio](https://img.shields.io/badge/Android-Studio-orange?style=for-the-badge&logo=android)](https://developer.android.com/studio)
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-Programming-blue?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 
 
