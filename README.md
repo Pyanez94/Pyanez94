@@ -11,7 +11,7 @@
 
 SKILL
 
-[![Android Studio](https://img.shields.io/badge/Android-Studio-purple.svg)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/orange/Android-Studio-purple.svg)](https://developer.android.com/studio)
 
 
 
