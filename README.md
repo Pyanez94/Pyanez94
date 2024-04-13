@@ -23,6 +23,8 @@ SKILL
 
 [![SQL Server](https://img.shields.io/badge/SQL_Server-Database-FF7F50?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
+[![Visual Studio Code](https://i.imgur.com/bIB1QlB.jpg)](https://developer.android.com/studio)
+
 
 
 
