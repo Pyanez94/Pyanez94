@@ -3,8 +3,9 @@
 <!--
 **Pyanez94/Pyanez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Programación](https://i.imgur.com/0WtSG1N.jpg)
-"I am a recently graduated student in programming and systems analysis, passionate about the development of mobile applications, web pages and databases. With skills in various programming languages, I am actively seeking work placement opportunities to apply and develop my skills while contributing to the growth of the organization. Enthusiastic about taking on new challenges in the field of software development!"
+<div style="background-image: url('https://i.imgur.com/A20v4E6.jpg'); padding: 20px;">
+    <h2 style="color: white;">I am a recently graduated student in programming and systems analysis, passionate about the development of mobile applications, web pages, and databases. With skills in various programming languages, I am actively seeking work placement opportunities to apply and develop my skills while contributing to the growth of the organization. Enthusiastic about taking on new challenges in the field of software development!</h2>
+</div>
 
 ### Where to find me
 
