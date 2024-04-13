@@ -7,7 +7,8 @@
 
 ### Where to find me
 
--[linkedin](https://www.linkedin.com/in/pedro-ya%C3%B1ez-baeza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Yañez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-ya%C3%B1ez-baeza)
+
 
 SKILL
 
