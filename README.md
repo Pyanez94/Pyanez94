@@ -17,7 +17,8 @@ SKILL
 
 [![HTML](https://img.shields.io/badge/HTML-Markup-gold?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[![Base de Datos](https://img.shields.io/badge/Base_de_Datos-Data_Store-green?style=for-the-badge&logo=database&logoColor=white)](https://es.wikipedia.org/wiki/Base_de_datos)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-Database-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
 
 
 
